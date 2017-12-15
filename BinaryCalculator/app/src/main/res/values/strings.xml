@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eric O Binary Calculator</string>
+
+    <!-- Binary Arithmetic Strings -->
+    <string name="and_btn">AND</string>
+    <string name="or_btn">OR</string>
+    <string name="xor_btn">XOR</string>
+    <string name="nand_btn">NAND</string>
+    <string name="nor_btn">NOR</string>
+    <string name="xnor_btn">XNOR</string>
+    <string name="eval_btn">Evaluate</string>
+    <string name="truth_table_btn">Truth Table</string>
+    <string name="truth_res">TRUE</string>
+    <string name="false_res">FALSE</string>
+    <string name="first_num">1st Binary #:</string>
+    <string name="second_num">2nd Binary #:</string>
+    <string name="results">Results:</string>
+    <string name="about_btn">About</string>
+    <string name="about">This app was created by Eric Odette. The purpose of this app is to perform Binary Arithmatic and other
+        utility revloving around binary values.</string>
+    <string name="back_main_btn">Back to Main Screen</string>
+    <string name="t_table_des">an image of a truth table for the respective logic operation.</string>
+
+    <string name="error_msg_input">Please enter boolean/binary values into the edit texts provided before attempting an evaluation.</string>
+
+</resources>
+
